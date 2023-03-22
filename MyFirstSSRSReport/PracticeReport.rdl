@@ -3,43 +3,12 @@
   <df:DefaultFontFamily>Segoe UI</df:DefaultFontFamily>
   <AutoRefresh>0</AutoRefresh>
   <DataSources>
-    <DataSource Name="AdventureWorks2023">
+    <DataSource Name="PracticeDataSource">
       <DataSourceReference>WideWorldImportersDW</DataSourceReference>
       <rd:SecurityType>None</rd:SecurityType>
-      <rd:DataSourceID>ea030596-98f7-4edf-bcea-f16bb50af41f</rd:DataSourceID>
+      <rd:DataSourceID>f1390ac4-2621-4ac8-b5ff-ceee1d60ecf3</rd:DataSourceID>
     </DataSource>
   </DataSources>
-  <DataSets>
-    <DataSet Name="AdventureWorksDataset">
-      <SharedDataSet>
-        <SharedDataSetReference>Salespeople</SharedDataSetReference>
-      </SharedDataSet>
-      <Fields>
-        <Field Name="SalespersonName">
-          <DataField>SalespersonName</DataField>
-          <rd:TypeName>System.String</rd:TypeName>
-        </Field>
-        <Field Name="Date">
-          <Value>Date</Value>
-        </Field>
-        <Field Name="Order">
-          <Value>Order</Value>
-        </Field>
-        <Field Name="Subcat">
-          <Value>Subcat</Value>
-        </Field>
-        <Field Name="Product">
-          <Value>Product</Value>
-        </Field>
-        <Field Name="Qty">
-          <Value>Qty</Value>
-        </Field>
-        <Field Name="LineTotal">
-          <Value>LineTotal</Value>
-        </Field>
-      </Fields>
-    </DataSet>
-  </DataSets>
   <ReportSections>
     <ReportSection>
       <Body>
