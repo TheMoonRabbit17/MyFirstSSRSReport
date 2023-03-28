@@ -2,7 +2,7 @@
 <RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="WideWorldImportersDW">
   <ConnectionProperties>
     <Extension>SQL</Extension>
-    <ConnectString>Data Source=PHXSQLD01;Initial Catalog=WideWorldImportersDW</ConnectString>
+    <ConnectString>Data Source=VPCW10DEVF164\MSSQLSERVER01;Initial Catalog=Contacts</ConnectString>
     <IntegratedSecurity>true</IntegratedSecurity>
   </ConnectionProperties>
   <DataSourceID>6828a49b-0c9c-477c-89fe-c6c25e449be1</DataSourceID>
