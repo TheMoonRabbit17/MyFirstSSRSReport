@@ -50,11 +50,14 @@
     <Reports>@(Report)</Reports>
   </PropertyGroup>
   <ItemGroup>
+    <DataSet Include="PracticeDataSet1.rsd" />
+    <DataSet Include="PracticeDataSet2.rsd" />
     <DataSet Include="RecentYears.rsd" />
     <DataSet Include="Salespeople.rsd" />
     <DataSet Include="Years.rsd" />
   </ItemGroup>
   <ItemGroup>
+    <DataSource Include="PracticeDataSource.rds" />
     <DataSource Include="WideWorldImportersDW.rds" />
   </ItemGroup>
   <ItemGroup>

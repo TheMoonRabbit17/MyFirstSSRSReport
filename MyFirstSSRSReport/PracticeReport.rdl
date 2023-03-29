@@ -14,7 +14,7 @@
     </DataSource>
   </DataSources>
   <DataSets>
-    <DataSet Name="DataSet1">
+    <DataSet Name="PracticeDataSet1">
       <Query>
         <DataSourceName>PracticeDataSource</DataSourceName>
         <QueryParameters>
@@ -500,7 +500,7 @@
                 </TablixMember>
               </TablixMembers>
             </TablixRowHierarchy>
-            <DataSetName>DataSet1</DataSetName>
+            <DataSetName>PracticeDataSet1</DataSetName>
             <Top>0.20708in</Top>
             <Left>0.20708in</Left>
             <Height>0.5in</Height>
