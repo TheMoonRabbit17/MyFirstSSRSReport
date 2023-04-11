@@ -52,6 +52,7 @@
   <ItemGroup>
     <DataSet Include="PracticeDataSet1.rsd" />
     <DataSet Include="PracticeDataSet2.rsd" />
+    <DataSet Include="PracticeDataSet3.rsd" />
     <DataSet Include="RecentYears.rsd" />
     <DataSet Include="Salespeople.rsd" />
     <DataSet Include="Years.rsd" />
