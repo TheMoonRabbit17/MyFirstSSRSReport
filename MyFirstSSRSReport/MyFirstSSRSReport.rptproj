@@ -65,6 +65,7 @@
     <Report Include="Annual Sales Info.rdl" />
     <Report Include="Customer Sales by City.rdl" />
     <Report Include="PracticeReport.rdl" />
+    <Report Include="PracticeReport2.rdl" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Reporting Services\Microsoft.ReportingServices.MSBuilder.targets" />
 </Project>
